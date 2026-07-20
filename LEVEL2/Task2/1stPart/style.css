@@ -78,10 +78,10 @@ nav ul li a:hover{
 .hero-image{
     flex: 1;
 }
-/* .hero-image img{
+.hero-image img{
     width: 100%;
     border-radius: 10px;
-} */
+}
 
 .features{
      display: flex;
